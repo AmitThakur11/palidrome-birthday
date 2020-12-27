@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  display: block;
+  background-color: crimson;
+}
+.App {
+  width: min-content;
+  margin: auto;
+}
+h2 {
+  color: white;
+  border: 0;
+  border-radius: 1.5rem;
+  background-color: blueviolet;
+  box-shadow: 2px 2px 14px 2px black;
+  width: min-content;
+  margin: auto;
+}
+input {
+  height: 40px;
+  width: 200px;
+  margin-top: 3rem;
+  background-color: blueviolet;
+  border-radius: 0.6rem;
+  border: 0;
+  box-shadow: 2px 2px 14px 2px black;
+  color: white;
+}
+#para {
+  font-size: 2rem;
+  width: min-content;
+  margin: auto;
+  border-radius: 10px;
+  color: white;
+}
+
+.btn {
+  margin-bottom: 3rem;
+  outline: none;
+  background-color: blueviolet;
+  color: white;
+}
+.out {
+  height: 200px;
+  width: 300px;
+  background-color: blueviolet;
+  margin: auto;
+  border-radius: 2rem;
+  padding-top: 1rem;
+  box-shadow: 2px 2px 14px 2px black;
+}
